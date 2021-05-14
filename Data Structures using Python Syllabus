@@ -1,0 +1,48 @@
+Course: Data Structures using Python
+Arrays:
+	Introduction 
+		Types Of Arrays.
+		Operations - Searching,Insertion,Deletion,Comparing Arrays With Other DataStructures
+	Problems:
+		Sum of array elements
+		Sorting and Searching
+		Left And Right Rotation,
+		Maximum Sum formed by Continuos subsequence etc(3 days)
+Strings:
+	Introduction:
+		operations: searching,insertion,join,slicing
+	Problems:
+		Palindrome
+		Anagram
+		Next Permutation etc(3 days)
+Stack:
+	Introduction:
+		operations:push,pop
+	Problems:
+		Infix to postfix
+		Balanced Paranthesis
+		Max element in Stack
+		Text Editor(undo,redo)etc(4 days)
+Queue:
+	Introduction:
+		operations:enqueue,dequeue
+		Types: Circular Queue
+	Problems:
+		Implementation of queues using linked list
+		Queue using Two Stacks etc(3 days)
+Linked List:
+	Introduction:
+		operations:insertion,deletion,searching,time complexity of operations
+		types:doubly linked list,circular linked list
+	Problems:
+		Floyd Cycle Detection Algorithm
+		Merge point of two linked list
+		two linked lists are equal or not etc(4 days)
+Tree:
+	Introduction:
+		types:BINARY TREE,BST,AVL TREE,B-TREE
+		operations:insertion,deletion,searching
+	Problems:
+		Height of a binary tree
+		inorder,preorder,postorder
+		level-order traversal etc
